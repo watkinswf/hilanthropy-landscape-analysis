@@ -1,1 +1,1 @@
-# hilanthropy-landscape-analysis
+# Philanthropy-landscape-analysis
